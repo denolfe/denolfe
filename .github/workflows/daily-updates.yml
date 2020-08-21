@@ -17,3 +17,4 @@ jobs:
         with:
           feed-url: https://www.elliotdenolf.com/rss.xml
           readme-section: posts
+          max: 10
