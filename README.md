@@ -15,4 +15,9 @@
 ### Blog posts
 
 <!--START_SECTION:posts-->
+* [Bootstrap your Dotfiles with dotbot](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;bootstrap-your-dotfiles-with-dotbot)
+* [Easily Rerun EC2 UserData](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;easily-rerun-ec2-userdata)
+* [Polyglot Version Management with asdf](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;polyglot-version-management-with-asdf)
+* [My Tech Podcasts: Summer 2020 Edition](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;my-tech-podcasts-summer-2020)
+* [Backup and Restore Visual Studio Code Extensions from the Command Line](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;backup-restore-vs-code-extensions)
 <!--END_SECTION:posts-->
