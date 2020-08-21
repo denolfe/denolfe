@@ -20,4 +20,9 @@
 * [Polyglot Version Management with asdf](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;polyglot-version-management-with-asdf)
 * [My Tech Podcasts: Summer 2020 Edition](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;my-tech-podcasts-summer-2020)
 * [Backup and Restore Visual Studio Code Extensions from the Command Line](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;backup-restore-vs-code-extensions)
+* [C# Scripting using dotnet-script](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;csharp-scripting-using-dotnet-script&#x2F;)
+* [Chromebook For Development - 1 Year In](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;chromebook-for-development-1-year-in&#x2F;)
+* [Build .NET Core Applications using GitLab CI](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;build-net-core-applications-using-gitlab-ci&#x2F;)
+* [Cucumber.js with TypeScript](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;cucumberjs-with-typescript&#x2F;)
+* [Health Checks for TypeScript Microservices](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;standardized-health-checks-in-typescript&#x2F;)
 <!--END_SECTION:posts-->
