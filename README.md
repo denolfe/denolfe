@@ -15,6 +15,7 @@
 ### Blog posts
 
 <!--START_SECTION:posts-->
+* [Build .NET 5 Applications with GitHub Actions](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;build-net-5-applications-with-github-actions&#x2F;)
 * [Bootstrap your Dotfiles with dotbot](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;bootstrap-your-dotfiles-with-dotbot)
 * [Easily Rerun EC2 UserData](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;easily-rerun-ec2-userdata)
 * [Polyglot Version Management with asdf](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;polyglot-version-management-with-asdf)
@@ -24,5 +25,4 @@
 * [Chromebook For Development - 1 Year In](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;chromebook-for-development-1-year-in&#x2F;)
 * [Build .NET Core Applications using GitLab CI](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;build-net-core-applications-using-gitlab-ci&#x2F;)
 * [Cucumber.js with TypeScript](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;cucumberjs-with-typescript&#x2F;)
-* [Health Checks for TypeScript Microservices](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;standardized-health-checks-in-typescript&#x2F;)
 <!--END_SECTION:posts-->
