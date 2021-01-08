@@ -14,7 +14,6 @@
 
 <p align="center">
   <a href="https://elliotdenolf.com">Blog</a> •
-  <a href="https://www.linkedin.com/in/elliotdenolf">LinkedIn</a> •
   <a href="http://twitter.com/elliothimself">Twitter</a>
 </p>
 
