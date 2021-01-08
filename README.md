@@ -1,4 +1,12 @@
-<h1 align="center">Hello! I'm Elliot 👋</h3>
+<h1 align="center">Hello! I'm Elliot 👋</h1>
+
+<div align="center">
+  <p>Currently working on <a href="https://payloadcms.com">Payload</a> - A self-hosted, JavaScript headless CMS<p>
+  <a href="https://payloadcms.com">
+    <img src="images/payload.jpg" alt="Payload CMS" title="Payload CMS - Self-hosted, headless, JavaScript" height="300" />
+</div>
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=denolfe&show_icons=true&count_private=true&text_color=24292e&icon_color=24292e&title_color=24292e&hide_border=true&include_all_commits=true&hide_title=true" alt="GitHub Stats">
