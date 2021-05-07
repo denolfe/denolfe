@@ -1,8 +1,8 @@
 <h1 align="center">Hello! I'm Elliot 👋</h1>
 
 <div align="center">
-  <p>Currently working on <a href="https://payloadcms.com">Payload</a> - A self-hosted, headless CMS and application framework for Node.js<p>
-  <a href="https://payloadcms.com">
+  <p>Currently working on <a href="https://github.com/payloadcms/payload">Payload</a> - A self-hosted, headless CMS and application framework for Node.js<p>
+  <a href="https://github.com/payloadcms/payload">
     <img src="images/payload.jpg" alt="Payload CMS" title="Payload CMS - Self-hosted, headless, JavaScript" height="300" />
 </div>
 
