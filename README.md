@@ -22,6 +22,7 @@
 ### Blog posts
 
 <!--START_SECTION:posts-->
+* [Nvm alternative for Node.js version management with asdf](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;nvm-alternative-for-nodejs-version-management-with-asdf&#x2F;)
 * [Build .NET 5 Applications with GitHub Actions](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;build-net-5-applications-with-github-actions&#x2F;)
 * [Bootstrap your Dotfiles with dotbot](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;bootstrap-your-dotfiles-with-dotbot)
 * [Easily Rerun EC2 UserData](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;easily-rerun-ec2-userdata)
@@ -31,5 +32,4 @@
 * [C# Scripting using dotnet-script](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;csharp-scripting-using-dotnet-script&#x2F;)
 * [Chromebook For Development - 1 Year In](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;chromebook-for-development-1-year-in&#x2F;)
 * [Build .NET Core Applications using GitLab CI](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;build-net-core-applications-using-gitlab-ci&#x2F;)
-* [Cucumber.js with TypeScript](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;cucumberjs-with-typescript&#x2F;)
 <!--END_SECTION:posts-->
