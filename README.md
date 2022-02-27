@@ -1,25 +1,23 @@
 <h1 align="center">Hello! I'm Elliot 👋</h1>
 
 <div align="center">
-  <p>Currently working on <a href="https://github.com/payloadcms/payload">Payload</a> - A self-hosted, headless CMS and application framework for Node.js<p>
+  <img src="https://img.shields.io/github/followers/denolfe" />
+  <img src="https://img.shields.io/github/stars/denolfe" />
+
+  <p>Currently working on <a href="https://github.com/payloadcms/payload">Payload</a> - The most-powerful TypeScript, headless CMS<p>
   <a href="https://github.com/payloadcms/payload">
     <img src="images/payload.jpg" alt="Payload CMS" title="Payload CMS - Self-hosted, headless, JavaScript" height="300" />
 </div>
 
----
+### 💻 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denolfe&show_icons=true&count_private=true&text_color=24292e&icon_color=24292e&title_color=24292e&hide_border=true&include_all_commits=true&hide_title=true" alt="GitHub Stats">
-</p>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=denolfe&theme=tokyonight&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=denolfe&theme=tokyonight&show_icons=true" />
+  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=denolfe&theme=github" />
+</div>
 
-<p align="center">
-  <a href="https://elliotdenolf.com">Blog</a> •
-  <a href="http://twitter.com/elliothimself">Twitter</a>
-</p>
-
----
-
-### Blog posts
+### 📕 Latest Blog Posts
 
 <!--START_SECTION:posts-->
 * [Nvm alternative for Node.js version management with asdf](https:&#x2F;&#x2F;elliotdenolf.com&#x2F;posts&#x2F;nvm-alternative-for-nodejs-version-management-with-asdf&#x2F;)
