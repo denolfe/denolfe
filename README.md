@@ -4,9 +4,9 @@
   <img src="https://img.shields.io/github/followers/denolfe" />
   <img src="https://img.shields.io/github/stars/denolfe" />
 
-  <p>Currently working on <a href="https://github.com/payloadcms/payload">Payload</a> - The most-powerful TypeScript, headless CMS<p>
+  <p>Currently working on <a href="https://github.com/payloadcms/payload">Payload</a> - A developer-first, headless CMS<p>
   <a href="https://github.com/payloadcms/payload">
-    <img src="images/payload.jpg" alt="Payload CMS" title="Payload CMS - Self-hosted, headless, JavaScript" height="300" />
+    <img src="https://payloadcms.com/images/og-image.jpg" alt="Payload CMS" title="Developer-first Headless CMS" height="300" />
 </div>
 
 ### 💻 GitHub Stats
