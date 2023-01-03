@@ -14,7 +14,7 @@
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=denolfe&theme=tokyonight&show_icons=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=denolfe&theme=tokyonight&show_icons=true" />
-  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=denolfe&theme=github" />
+  <img width="97%" src="https://github-readme-activity-graph.cyclic.app/graph?username=denolfe&theme=github" />
 </div>
 
 ### 📕 Latest Blog Posts
