@@ -4,9 +4,10 @@
   <img src="https://img.shields.io/github/followers/denolfe" />
   <img src="https://img.shields.io/github/stars/denolfe" />
 
-  <p>Currently working on <a href="https://github.com/payloadcms/payload">Payload</a> - A developer-first, headless CMS<p>
+  <h3>Currently working on <a href="https://github.com/payloadcms/payload">Payload</a><h3>
   <a href="https://github.com/payloadcms/payload">
-    <img src="https://payloadcms.com/images/og-image.jpg" alt="Payload CMS" title="Developer-first Headless CMS" height="300" />
+    <img src="images/payload.jpg" alt="Payload CMS" title="Developer-first Headless CMS" height="300" />
+  </a>
 </div>
 
 ### 💻 GitHub Stats
