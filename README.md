@@ -1,22 +1,10 @@
-<h1 align="center">Hello! I'm Elliot 👋</h1>
+## Hello! I'm Elliot 👋
 
-<div align="center">
-  <img src="https://img.shields.io/github/followers/denolfe" />
-  <img src="https://img.shields.io/github/stars/denolfe" />
+Founder @ [Payload](https://github.com/payloadcms/payload). TypeScript lover. Dotfiles enthusiast.
 
-  <h3>Currently working on <a href="https://github.com/payloadcms/payload">Payload</a><h3>
-  <a href="https://github.com/payloadcms/payload">
-    <img src="images/payload.jpg" alt="Payload CMS" title="Developer-first Headless CMS" height="300" />
-  </a>
-</div>
-
-### 💻 GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=denolfe&theme=tokyonight&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=denolfe&theme=tokyonight&show_icons=true" />
-  <img width="97%" src="https://github-readme-activity-graph.cyclic.app/graph?username=denolfe&theme=github" />
-</div>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=denolfe&theme=transparent&show_icons=true" />
+<br />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=denolfe&theme=transparent&show_icons=true" />
 
 ### 📕 Latest Blog Posts
 
