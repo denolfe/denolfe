@@ -1,12 +1,7 @@
 name: Daily updates
 
 on:
-  schedule:
-    # Weekly on Sunday
-    - cron: 0 0 * * 0
-  push:
-    branches:
-      - master
+  workflow_dispatch:
 
 jobs:
   update-readme:
